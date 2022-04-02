@@ -108,4 +108,4 @@ def multithread(jumlah_request):
     return waktu_eksekusi
 
 if __name__=='__main__':
-    print("Waktu Eksekusi: ", multithread(5))
+    print("Waktu Eksekusi: ", multithread(20))
